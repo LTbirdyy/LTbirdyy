@@ -1,5 +1,8 @@
 ## Olá!! Sou Gabriel F🐣
+💻Estudante de Ciência da Computação no 1º bimestre. 
 
+📚Estudando no momento Python, HTML, CSS.
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTbirdyy&show=&&show_icons=true&theme=blue_navy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTbirdyy&layout=compact&theme=blue_navy)
 ##
