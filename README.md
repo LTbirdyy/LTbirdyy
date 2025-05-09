@@ -1,9 +1,12 @@
-## Olá!! Sou Gabriel F🐣
-💻Estudante de Ciência da Computação no 1º bimestre. 
+## Olá!! Sou Gabriel F 🐣
+💻Estudante de Ciência da Computação no UNCIEUB, atualmente no 1º bimestre. 
 
 📚Estudando no momento Python, HTML, CSS.
+
+🎾Além de programar no tempo livre participo de competições de tênis, vejo filmes e séries e jogo videogame
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTbirdyy&show=&&show_icons=true&theme=blue_navy)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTbirdyy&layout=compact&theme=blue_navy)
 ##
 <div style="display: inline_block"><br>
