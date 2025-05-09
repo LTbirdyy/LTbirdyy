@@ -1,9 +1,9 @@
 ## Olá!! Sou Gabriel F 🐣
-💻Estudante de Ciência da Computação no UNICEUB em Brasília, atualmente no 1º bimestre. 
+* 💻Estudante de Ciência da Computação no UNICEUB em Brasília, atualmente no 1º bimestre. 
 
-📚Atualmente estou estudando bastente de Python e futuramente me aprofundarei mais em HTML, CSS e JavaScript.
+* 📚Atualmente estou estudando bastente de Python e futuramente me aprofundarei mais em HTML, CSS e JavaScript.
 
-🎾Além de programar no tempo livre participo de competições de tênis, vejo filmes e séries e jogo videogame
+* 🎾Além de programar no tempo livre participo de competições de tênis, vejo filmes e séries e jogo videogame
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTbirdyy&show=&&show_icons=true&theme=blue_navy)
 
