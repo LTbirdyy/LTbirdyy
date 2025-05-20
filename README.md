@@ -1,7 +1,7 @@
 ## Olá!! Sou Gabriel F 🐣
 * 💻Estudante de Ciência da Computação no UNICEUB em Brasília, atualmente no 1º bimestre. 
 
-* 📚Atualmente estou estudando bastente de Python e futuramente me aprofundarei mais em HTML, CSS e JavaScript.
+* 📚Atualmente estou estudando bastante de Python e futuramente me aprofundarei mais em HTML, CSS e JavaScript.
 
 * 🎾Além de programar no tempo livre participo de competições de tênis, vejo filmes e séries e jogo videogame
 ##
